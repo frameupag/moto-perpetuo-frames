@@ -1,2 +1,2 @@
 # moto-perpetuo-frames
-Frame WebP (180) per la hero con scroll del sito Accademia Moto Perpetuo.
+180 frame WebP per la hero con scroll (mobile 960, tablet 1440, desktop 1920, xl 2560).
